@@ -1,0 +1,11 @@
+babasport-common
+babasport-console
+babasport-dao
+babasport-interface
+babasport-login
+babasport-pojo
+babasport-portal
+babasport-service-cms
+babasport-service-cob
+babasport-service-product
+babasport-service-solr
