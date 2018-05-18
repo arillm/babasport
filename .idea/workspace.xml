@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fe3dc72-4d2a-4fe3-986b-b5e444576890" name="Default" comment="" />
+    <list default="true" id="1fe3dc72-4d2a-4fe3-986b-b5e444576890" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/babasport-common/target/" />
     <ignored path="$PROJECT_DIR$/babasport-dao/target/" />
@@ -59,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -73,6 +75,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -244,16 +251,25 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1fe3dc72-4d2a-4fe3-986b-b5e444576890" name="Default" comment="" />
+      <changelist id="" name="1" comment="" />
       <created>1526538980150</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526538980150</updated>
-      <workItem from="1526538982516" duration="14039000" />
+      <workItem from="1526538982516" duration="14814000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1526612642898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526612642898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14039000" />
+    <option name="totallyTimeSpent" value="14814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -262,11 +278,11 @@
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.4004329" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.32089552" side_tool="true" weight="0.6294691" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.32089552" side_tool="true" visible="true" weight="0.3347779" />
       <window_info anchor="right" id="Maven Projects" order="2" visible="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49946696" weight="0.54545456" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="4" sideWeight="0.6791045" visible="true" weight="0.6294691" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="4" sideWeight="0.6791045" visible="true" weight="0.3347779" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info id="Designer" order="6" />
       <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.18496802" />
@@ -318,6 +334,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/babasport-login/pom.xml">
@@ -425,10 +445,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
         </state>
       </provider>
     </entry>
