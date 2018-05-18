@@ -32,6 +32,7 @@
       <module name="babasportdao" target="1.5" />
       <module name="babasportinterface" target="1.5" />
       <module name="babasportportal" target="1.5" />
+      <module name="babasportservice" target="1.7" />
       <module name="babasportservicecms" target="1.5" />
       <module name="babasportservicecob" target="1.5" />
       <module name="babasportserviceproduct" target="1.5" />

@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/babasport-common" />
     <file type="web" url="file://$PROJECT_DIR$/babasport-portal" />
+    <file type="web" url="file://$PROJECT_DIR$/babasport-service" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -20,6 +21,11 @@
         <option value="$PROJECT_DIR$/babasport-interface/pom.xml" />
         <option value="$PROJECT_DIR$/babasport-portal/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/babasport-service/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
