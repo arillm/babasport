@@ -15,12 +15,12 @@ import java.util.Date;
 public class TesttbTest {
 
     @Autowired
-    private TestDao testDao;
+    private TestTBService testTBService;
 
     @Test
     public void TestADD(){
-        TestTB testTB = new TestTB(1, "admin", new Date());
-        testDao.save(testTB);
+        TestTB testTB = new TestTB(3, "lt", new Date());
+        testTBService.insertTestTB(testTB);
     }
 
 }
